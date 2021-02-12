@@ -1,4 +1,4 @@
-# clone_instagram
+# Clone da tela de login do instagram
 
 Clone do layout da tela do Instagram para aprendizado de HTML CSS.
 
